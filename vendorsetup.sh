@@ -1,0 +1,3 @@
+add_lunch_combo cardinal_kiwi-user
+add_lunch_combo cardinal_kiwi-userdebug
+add_lunch_combo cardinal_kiwi-eng
